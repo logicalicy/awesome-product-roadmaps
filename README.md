@@ -1,10 +1,12 @@
+# Awesome product roadmaps
+
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 
 Feel free to create a new [pull request](https://github.com/logicalicy/awesome-product-roadmaps/pulls), or open an [issue](https://github.com/logicalicy/awesome-product-roadmaps/issues/new).
 
-> A product roadmap is a high-level visual summary that maps out the vision and direction of your product offering over time. A product roadmap communicates the why and what behind what you’re building. It’s a guiding strategic document as well as a plan for executing the strategy. --ProductPlan
+> A product roadmap is a high-level visual summary that maps out the vision and direction of your product offering over time. A product roadmap communicates the why and what behind what you’re building. It’s a guiding strategic document as well as a plan for executing the strategy. – ProductPlan
 
-Famous examples of open/transparent roadmaps, include [Buffer's](https://trello.com/b/PDIV7XW3/buffer-transparent-product-roadmap) and [Monzo's](https://monzo.com/blog/2018/11/07/making-monzo-roadmap). Below, you'll find roadmaps listed as well as blog posts that shed light on their motivation to make their roadmap public.
+Well known examples of open/transparent roadmaps include [Buffer's](https://trello.com/b/PDIV7XW3/buffer-transparent-product-roadmap) and [Monzo's](https://monzo.com/blog/2018/11/07/making-monzo-roadmap). Below, you'll find roadmaps listed as well as blog posts that shed light on their motivation to make their roadmap public.
 
 ---
 
